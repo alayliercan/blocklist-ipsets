@@ -1,0 +1,20 @@
+#
+# bad_ips_s14
+#
+# ipv4 hash:net ipset
+#
+#
+# Maintainer      : alayliercan
+# Maintainer URL  : https://github.com/alayliercan/blocklist-ipsets
+#
+# List containing ipset of clients we don't want access to our servers.
+# Because we have seen one or more clients from that network making harmful requests.
+#
+#
+
+205.169.39.0/24
+65.49.0.0/17
+212.102.63.0/24
+92.51.192.0/18
+161.35.112.0/20
+217.27.160.0/19

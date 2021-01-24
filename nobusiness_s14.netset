@@ -1,0 +1,17 @@
+#
+# nobusiness_s14
+#
+# ipv4 hash:net ipset
+#
+#
+# Maintainer      : alayliercan
+# Maintainer URL  : https://github.com/alayliercan/blocklist-ipsets
+#
+# List containing ipset of clients we don't want access to our servers.
+# Because they are just waste of system resources as they are not our target audience.
+#
+#
+
+157.55.0.0/16
+207.46.0.0/19
+34.72.0.0/14
