@@ -1,0 +1,15 @@
+#
+# bad_ips_tual
+#
+# ipv4 hash:net ipset
+#
+#
+# Maintainer      : alayliercan
+# Maintainer URL  : https://github.com/alayliercan/blocklist-ipsets
+#
+# List containing ipset of clients we don't want access to our servers.
+# Because we have seen one or more clients from that network making harmful requests.
+#
+#
+
+45.143.99.0/24
